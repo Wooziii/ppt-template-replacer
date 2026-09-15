@@ -22,3 +22,5 @@ template_probe_runs/
 tmp_*/
 openclaw_rebuild/
 fix-notes/
+!docs/images/*.png
+!docs/images/*.jpg
