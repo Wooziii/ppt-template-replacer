@@ -2,6 +2,8 @@
 
 基于 Python、Tkinter、python-pptx 和 PowerPoint COM 的 Windows 桌面原型。用于活动、技术分享和企业培训中，将多份演示文稿适配到统一品牌模板。
 
+**[下载程序与完整作品集 ZIP](https://github.com/Wooziii/ppt-template-replacer/releases/tag/v0.1.0-portfolio)** · **[查看简历项目描述](docs/简历项目描述.md)**
+
 ## 项目价值与演示
 
 通过 Vibe Coding 将活动运营中的重复套版需求做成桌面工具，集中处理模板选择、批量适配、风险标记和结果交付。AI 用于辅助开发，程序运行时主要依靠规则与 Office 自动化。
